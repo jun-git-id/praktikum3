@@ -39,3 +39,7 @@ INSERT INTO `kota` (`id`, `id_provinsi`, `nama`) VALUES
 INSERT INTO `provinsi` (`id`, `nama`) VALUES
 (1, 'Aceh'),
 (2, 'Sumatera Utara');
+
+#
+
+![praktikum3](https://user-images.githubusercontent.com/31401238/98458741-5ea45000-21c6-11eb-9377-5186039b6538.PNG)
