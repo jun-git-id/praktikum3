@@ -1,6 +1,6 @@
 # Praktikum3
 
-Belajar Join Tabel Mudah, dengan memanfaatkan data Regional di Indonesia
+Belajar Select Tabel Mudah, dengan memanfaatkan data Regional di Indonesia
 
 - Provinsi
 - Kabupaten
