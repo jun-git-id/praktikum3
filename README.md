@@ -26,3 +26,16 @@ Belajar Select Tabel Mudah, dengan memanfaatkan data Regional di Indonesia
    PRIMARY KEY (`id`)
    ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
    ======================================
+
+Contoh Data
+
+INSERT INTO `kota` (`id`, `id_provinsi`, `nama`) VALUES
+(1, 1, 'Aceh Besar'),
+(2, 1, 'Aceh Barat'),
+(3, 1, 'Aceh Selatan'),
+(4, 2, 'Medan'),
+(5, 2, 'Siantar');
+
+INSERT INTO `provinsi` (`id`, `nama`) VALUES
+(1, 'Aceh'),
+(2, 'Sumatera Utara');
